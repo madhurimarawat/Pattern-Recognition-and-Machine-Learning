@@ -1,7 +1,7 @@
 # Pattern-Recognition-and-Machine-Learning
 This repository contains Pattern Recognition and Machine Learning programs in the Python programming language.
 <br><br>
-<img src="https://i.morioh.com/52c215bc5f.png" height=400 width=700>
+<img src="https://www.parascript.com/wp-content/uploads/2021/02/ability-to-learn-and-improve-parascript.png" height=400 width=700>
 
 ---
 
